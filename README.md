@@ -1,7 +1,7 @@
 # stanCode SC001
 #### Repository for python stanCode SC001 lecture_codes and assignments.
 
-## Lecture Outline
+# Lecture Outline
 - Week 1
   - Python Programming Language
   - PyCharm Operation
