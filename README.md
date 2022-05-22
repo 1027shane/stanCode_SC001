@@ -1,5 +1,5 @@
 # stanCode SC001
-#### Repository for python StanCode SC001 lecture_codes and assignments.
+#### Repository for python stanCode SC001 lecture_codes and assignments.
 
 ## Lecture Outline
 - Week 1
@@ -16,11 +16,11 @@
   - Advanced for loop & while loop
   - Advanced Function
   - String
-  - Class & Object
+  - String Class Methods
 - Week 4
   - File Reading
   - Random Generator
-  - Get Pixels
+  - simpleimage.py
   - Photoshop
 - Week 5
   - Final Exam
