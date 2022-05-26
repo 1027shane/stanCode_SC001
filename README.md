@@ -25,3 +25,8 @@
 - Week 5
   - Final Exam
   - Data Analysis
+
+# Assignments Demo Videos
+- Assignment 1
+  - *[MidpointKarel](https://drive.google.com/file/d/1AquVWlMlYcxsXuYkyfu0zEJ781swCmlq/view?usp=sharing)*
+
