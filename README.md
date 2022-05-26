@@ -29,8 +29,3 @@
 # Assignments Demo Videos
 - Assignment 1
   - *[MidpointKarel](https://drive.google.com/file/d/1AquVWlMlYcxsXuYkyfu0zEJ781swCmlq/view?usp=sharing)*
-
-
-
-https://user-images.githubusercontent.com/55530426/170535283-2b826e2a-f278-42ab-83b8-73c91dea888a.mov
-
