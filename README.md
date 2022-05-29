@@ -28,4 +28,6 @@
 
 # Assignments Demo Videos
 - Assignment 1
-  - *[MidpointKarel](https://drive.google.com/file/d/1AquVWlMlYcxsXuYkyfu0zEJ781swCmlq/view?usp=sharing)*
+  - *[MidpointKarel.py](https://drive.google.com/file/d/1AquVWlMlYcxsXuYkyfu0zEJ781swCmlq/view?usp=sharing)*
+- Assignment 3
+  - *[hangman.py](https://drive.google.com/file/d/1B9CoNC6WD45-2QYyayRHSM1gE0YqhUNP/view?usp=sharing)*
