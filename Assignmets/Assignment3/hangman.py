@@ -54,14 +54,14 @@ def main():
                     new_dashed += dashed[i]
             dashed = new_dashed
 
-        # Update life
+        # update life
         if guess_right:
             print('You are correct!')
         else:
             life -= 1
             print('There is no '+input_ch+'\'s in the word.')
 
-        # Check if the game is over
+        # check if the game is over
         if life == 0:
             print('You are completely hung : (')
             break
