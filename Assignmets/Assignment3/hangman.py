@@ -25,8 +25,7 @@ def main():
     The game ends either you guess all the alphabets right(win),
     or used up all N_TURNS guesses.
     """
-    # answer = random_word()
-    answer = 'BUNDLE'
+    answer = random_word()
     life = N_TURNS
 
     # dashed word
